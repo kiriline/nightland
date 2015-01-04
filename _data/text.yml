@@ -1,27 +1,26 @@
-en:
-  title:
-    title: Nightland Colouring Book
-    author: by Elo Mall Toomet
-    concept: 'Concept and illustrations: Elo Mall Toomet'
-    text: 'Text: Elo Mall Toomet and Lemmit Kaplinski'
-    layout: 'Layout: Auli Kutt'
-    published: 'Published by:'
-    translation: 'Thanks for translation assistance to:'
-    contact: 'Info and contact:
-  content:
-    t04: At twilight Nightbird carries the child between her wings to Nightland.
-    t05: Nightbird flies over a deep dark forest.
-    t06: In the forest there lives a witch who has a thousand eyes.
-    t07: The witch watches over all the birds and beasts of Nightland.
-    t08: The birds of Nightland have colourful feathers.
-    t09: The wolves of Nightland have sharp teeth.
-    t10: Where is my mother? Your mother puts the sun to sleep.
-    t11: Where does the sun go to sleep? The sun goes to sleep in the belly of a fish.
-    t12: Where is my father? Your father helps the moon rise to the sky.
-    t13: Why is the moon crying?
-    t14: The moon is crying because the dragon boys are fighting.
-    t15: The tears of the moon become new stars.
-    t16: Stars guide the fish to the other shore of Nightlake.
-    t17: By the shore of the lake there lives a unicorn.
-    t18: In the morning the unicorn helps the sun rise to the sky.
-    t19: At daybreak Nightbird carries the child back to his home.
+title:
+  title: Nightland Colouring Book
+  author: by Elo Mall Toomet
+  concept: 'Concept and illustrations: Elo Mall Toomet'
+  text: 'Text: Elo Mall Toomet and Lemmit Kaplinski'
+  layout: 'Layout: Auli Kutt'
+  published: 'Published by:'
+  translation: 'Thanks for translation assistance to:'
+  contact: 'Info and contact:
+content:
+  t04: At twilight Nightbird carries the child between her wings to Nightland.
+  t05: Nightbird flies over a deep dark forest.
+  t06: In the forest there lives a witch who has a thousand eyes.
+  t07: The witch watches over all the birds and beasts of Nightland.
+  t08: The birds of Nightland have colourful feathers.
+  t09: The wolves of Nightland have sharp teeth.
+  t10: Where is my mother? Your mother puts the sun to sleep.
+  t11: Where does the sun go to sleep? The sun goes to sleep in the belly of a fish.
+  t12: Where is my father? Your father helps the moon rise to the sky.
+  t13: Why is the moon crying?
+  t14: The moon is crying because the dragon boys are fighting.
+  t15: The tears of the moon become new stars.
+  t16: Stars guide the fish to the other shore of Nightlake.
+  t17: By the shore of the lake there lives a unicorn.
+  t18: In the morning the unicorn helps the sun rise to the sky.
+  t19: At daybreak Nightbird carries the child back to his home.
