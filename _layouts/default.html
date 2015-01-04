@@ -18,15 +18,15 @@
         <h1>{{ site.data.text.[page.lang].title }}</h1>
         <h3>{{ site.data.text.[page.lang].author }}</h3>
         <p>2014</p>
-        {% if site.data.text.[page.lang].desc %}<p>{{ site.data.text.[page.lang].desc }}</p>{% endif %}
+        {% if site.data.text.[page.lang].desc_book %}<p>{{ site.data.text.[page.lang].desc_book }}</p>{% endif %}
+        {% if site.data.text.[page.lang].desc_author %}<p>{{ site.data.text.[page.lang].desc_author }}</p>{% endif %}
         <p></p>
       </header>
       <section>
         {{ content }}
       </section>
       <footer>
-        <p>This project is maintained by <a href="https://github.com/kiriline">kiriline</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        {% include lang.html %}
       </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>
